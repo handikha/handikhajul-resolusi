@@ -1,3 +1,4 @@
 Handikhajul Resolusi:
 - Lorem
 - Lorem Ipsum
+- Lorem Ipsum, dolor sit.
